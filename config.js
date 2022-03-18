@@ -1,5 +1,5 @@
 module.exports = {
-        TOKEN: '', //write your discord bot token
+        TOKEN: 'OTU0MjEwODg3NDgzNDI0ODY5.YjP0Iw.miFoH7cj0QNMFsrEDpRepdhybLs', //write your discord bot token
         px: '!',
         playing: 'Umut Bayraktar ❤️ Music Bot',
 
